@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 11 July 2024
+From: 05 April 2022 - To: 12 July 2024
 
-Total Time: 1,175 hrs
+Total Time: 1,175 hrs 6 mins
 
-TypeScript                 696 hrs 35 mins >>>>>>>>>>>>>>>----------   58.89 %
+TypeScript                 696 hrs 41 mins >>>>>>>>>>>>>>>----------   58.90 %
 Text                       127 hrs 45 mins >>>----------------------   10.80 %
 Lua                        113 hrs 28 mins >>-----------------------   09.59 %
 JavaScript                 94 hrs 46 mins  >>-----------------------   08.01 %
