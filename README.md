@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 16 July 2024
+From: 05 April 2022 - To: 17 July 2024
 
-Total Time: 1,175 hrs 8 mins
+Total Time: 1,177 hrs 34 mins
 
-TypeScript                 696 hrs 43 mins >>>>>>>>>>>>>>>----------   58.90 %
-Text                       127 hrs 45 mins >>>----------------------   10.80 %
-Lua                        113 hrs 28 mins >>-----------------------   09.59 %
-JavaScript                 94 hrs 46 mins  >>-----------------------   08.01 %
-LESS                       37 hrs 15 mins  >------------------------   03.15 %
-JSON                       29 hrs 54 mins  >------------------------   02.53 %
+TypeScript                 696 hrs 43 mins >>>>>>>>>>>>>>>----------   58.78 %
+Text                       127 hrs 45 mins >>>----------------------   10.78 %
+Lua                        113 hrs 28 mins >>-----------------------   09.57 %
+JavaScript                 97 hrs 12 mins  >>-----------------------   08.20 %
+LESS                       37 hrs 15 mins  >------------------------   03.14 %
+JSON                       29 hrs 54 mins  >------------------------   02.52 %
 Rust                       29 hrs 21 mins  >------------------------   02.48 %
 Markdown                   11 hrs 7 mins   -------------------------   00.94 %
 Less                       9 hrs 7 mins    -------------------------   00.77 %
