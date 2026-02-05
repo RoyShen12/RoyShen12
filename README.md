@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 02 February 2026
+From: 05 April 2022 - To: 03 February 2026
 
 Total Time: 1,508 hrs 44 mins
 
@@ -22,7 +22,7 @@ JSON                       59 hrs 24 mins  >------------------------   03.89 %
 LESS                       37 hrs 15 mins  >------------------------   02.44 %
 Rust                       29 hrs 31 mins  -------------------------   01.94 %
 Python                     28 hrs 40 mins  -------------------------   01.88 %
-YAML                       24 hrs 8 mins   -------------------------   01.58 %
+YAML                       24 hrs 9 mins   -------------------------   01.58 %
 Bash                       17 hrs 21 mins  -------------------------   01.14 %
 ```
 
